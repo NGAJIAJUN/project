@@ -25,7 +25,7 @@ slide:nth-child(1){
  left: 0%;
  bottom: 30.5%;
  animation-delay: -1s;
- background-image: url(images/1.jpg);
+ background-image: url(images/002.jpg);
  background-size: 100% 100%;
  background-position: center;
  height: 430px;
@@ -37,7 +37,7 @@ slide:nth-child(2){
 	left: 100%;
 	bottom: 30.5%;
  animation-delay: 2s;
- background-image: url(images/2.jpg);
+ background-image: url(images/003.jpg);
  background-size: 100% 100%;
  background-position: center;
  height: 430px;
@@ -49,7 +49,7 @@ slide:nth-child(3){
 	left: 100%;
 	bottom: 30.5%;
  animation-delay: 5s;
- background-image: url(images/4.jpg);
+ background-image: url(images/011.jpg);
  background-size: 100% 100%;
  background-position: center;
  height: 430px;
