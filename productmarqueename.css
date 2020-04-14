@@ -18,7 +18,7 @@
    color: white;
    font-size: 25;
    font-family: impact;
-  z-index: -1;
+  z-index: -2;
 }
 .products h2{
    position: absolute;
